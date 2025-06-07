@@ -112,10 +112,7 @@ sequenceDiagram
     시스템->>학생: 입학 완료 및 반 배정 결과 알림
     학생-->>시스템: 확인
 
-    deactivate 학생
-    deactivate 관리자
-    deactivate 시스템
-    deactivate DB
+
 ```
 
 
